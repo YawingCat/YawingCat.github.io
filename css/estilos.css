@@ -1,0 +1,96 @@
+h1{
+    color: brown;
+    font-family: "Exo 2", sans-serif;
+}
+
+p, ul, li{
+
+  font-family: "Montserrat", sans-serif;
+  color: rgb(53, 24, 85);
+
+}
+
+a{
+    font-family: "Bebas Neue", sans-serif;
+}
+
+.primerh2{
+    color: rgb(23, 0, 128);
+}
+
+.p1{
+    color: rgb(68, 90, 148);
+    font-size: 5px;
+}
+
+.p2{
+    color: chartreuse;
+    font-size: 10px;
+}
+
+.p3{
+    color: blue;
+}
+
+.p4{
+    color: pink;
+}
+
+.img1{
+    border: 3px solid rgb(67, 163, 180);
+    border-radius: 7%;
+
+}
+
+img{
+    border-radius: 80%;
+    border: 3px solid rgb(172, 212, 24);
+}
+
+#primera{
+    color: brown;
+}
+
+#segunda{
+    color: green;
+}
+
+body{
+    background-color: rgb(228, 225, 222);
+    padding: 0;
+}
+
+#bodi{
+    background-image: url("/images.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.menu{
+    border: 1px solid black;
+    margin: 0%;
+    padding: 0;
+}
+
+.menu nav li{
+    display: inline-block;
+    margin: 3%;
+    text-decoration: none;
+    padding: 0;
+}
+
+.menu nav ul{
+    list-style-type: none;
+    padding: 0;
+    
+}
+.menu a{
+    text-decoration: none;
+    color: chocolate;
+    padding: 0;
+}
+
+.menu a:hover{
+    color: blue;
+}
